@@ -5,7 +5,6 @@ public class Persona {
 	private String Nombre;
 	private String Apellidos;
 	private int Edad;
-	private String demarcacion;
 
 	// constructor, getter y setter
 

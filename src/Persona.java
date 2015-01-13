@@ -1,7 +1,7 @@
 public class Persona {
     
     //propiedades
-	private Sting dni;
+	private String dni;
 	private String Nombre;
 	private String Apellidos;
 	private int Edad;
